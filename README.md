@@ -46,7 +46,7 @@ The Peer Learning presentations for this unit are listed below:
 
 [Symbols and Brands](https://docs.google.com/presentation/d/1RygRFFXWhT7fpClbVTCsIt4FnwU-cwo-Y43SrwBFmts/edit#slide=id.p)
 
-[CSS Tricks]
+[CSS Tricks](https://docs.google.com/presentation/d/1Sgr74hMwZrr-fR9xjEromS3QbZdoahE99HkwqGqckDg/edit?usp=sharing)
 
 ***
 
