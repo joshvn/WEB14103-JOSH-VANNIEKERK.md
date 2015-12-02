@@ -33,7 +33,7 @@ The Formative presentations for this unit are listed below:
 
 [Union Hack](https://docs.google.com/presentation/d/1RDhEYtjD6bFWj-z76IcKGTYOebJrW3pPGZzDyvNUNv4/edit#slide=id.p)
 
-[Code In Your Plate]
+[Code In Your Plate](https://github.com/joshvn/Recipe.md)
 
 ###**Peer Learning Presentations**
 
