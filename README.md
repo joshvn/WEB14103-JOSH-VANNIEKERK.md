@@ -75,6 +75,8 @@ The Blog posts for this unit are listed below:
 
 ***
 
+![YouTube](https://i.gyazo.com/5843a5d0b5cdc2436c9bbe93f6db03ee.png)
+
 ###**Summative Presentation**
 
 I presented my Summative Presentation via YouTube as I was unable to attend the lecture. I went through the process and my improvements I made throughout the project. I explained the thinking behind my work, sketches and ultimately final products.
